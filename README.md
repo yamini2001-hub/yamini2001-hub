@@ -1,6 +1,6 @@
 -  Hi, I’m Yamini Sharma , a sophomore at NIT Hamirpur, pursuing electrical engineering.
 -  I’m interested in bringing out an amalgamation of core fields and technological advancements so as to yield better results.
--  I’m currently trying my hands on Augmented Reality and machine learning along with technical writing.
+-  I’m currently trying my hands on research projects along with technical writing.
 -  I’m looking to collaborate and work on various real life problems .
 - Reach me at:
     -yamsha01@gmail.com 
